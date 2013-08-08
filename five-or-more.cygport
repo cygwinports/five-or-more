@@ -1,0 +1,9 @@
+inherit gnome2
+
+NAME="five-or-more"
+VERSION=3.8.2
+RELEASE=1
+CATEGORY="Games"
+SUMMARY="GNOME Five-or-More game"
+DESCRIPTION=
+OBSOLETES="glines"
