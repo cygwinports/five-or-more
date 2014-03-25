@@ -1,9 +1,11 @@
 inherit gnome2
 
 NAME="five-or-more"
-VERSION=3.8.2
+VERSION=3.10.2
 RELEASE=1
 CATEGORY="Games"
 SUMMARY="GNOME Five-or-More game"
-DESCRIPTION=
+DESCRIPTION="five-or-more is the GNOME port of the once popular Windows game
+called Colour Lines.  The game's objective is to align as often as possible
+five or more objects of the same colour and shape causing them to disappear."
 OBSOLETES="glines"
